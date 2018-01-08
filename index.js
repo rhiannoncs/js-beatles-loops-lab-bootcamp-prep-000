@@ -13,3 +13,8 @@ function johnLennonFacts(facts) {
   }
   return lennonFacts
 }
+
+function iLoveTheBeatles(number) {
+  var beatlesLove = [];
+  
+}
